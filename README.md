@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/desktop.jpg)
+![](./screenshots/desktop.png)
 ![](./screenshots/mobile.png)
 
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://duokobia.github.io//)
+- Live Site URL: [Add live site URL here](https://duokobia.github.io/QR-code-component/)
 
 
 ## My process
