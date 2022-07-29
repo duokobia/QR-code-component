@@ -33,7 +33,6 @@ Users should be able to:
 ![](./screenshots/mobile.png)
 
 
-
 ### Links
 
 - Live Site URL: [Add live site URL here](https://duokobia.github.io/QR-code-component/)
